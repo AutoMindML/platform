@@ -1,0 +1,14 @@
+{
+  "data-center": "data processing center",
+  "no-data": "no data to display",
+  "total": "a total of $n rows",
+  "clean": "data cleaning",
+  "engineer": "feature engineering",
+  "outlier": "detect outlier",
+  "save": "save processed data",
+  "clean-area": "Cleaning Recommendation Area",
+  "feature-area": "Feature Engineering Area",
+  "outlier-area": "Detect Outlier Area",
+  "data-preview": "Data Preview Table",
+  "result-figure": "Result Figure Area"
+}

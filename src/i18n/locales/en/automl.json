@@ -1,0 +1,12 @@
+{
+  "app-bar-title": "AutoMind",
+  "left-side-bar-items": "Dataset Management;Available Engine;Project;Models;Apps",
+  "management": "Management",
+  "role": "Role",
+  "source": "Used Data Source",
+  "engine": "Used ML Engine",
+  "model": "Model",
+  "all-model": "",
+  "app": "App",
+  "prediction": "Prediction"
+}

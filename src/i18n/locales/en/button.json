@@ -1,0 +1,13 @@
+{
+  "theme": "toggle theme",
+  "logout": "Logout",
+  "action": "more actions",
+  "edit": "Edit this item",
+  "delete": "Delete this item",
+  "previous": "previous",
+  "next": "next",
+  "process-data": "Process Data",
+  "fusion": "Data Fusion",
+  "view": "Open View",
+  "switch-project": "Switch to this project"
+}

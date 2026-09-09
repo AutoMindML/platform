@@ -1,0 +1,14 @@
+{
+  "slogan": "SQLPredictor/AutoML & MLOps",
+  "description": "Empowering databases with machine learning capabilities. Easily integrate AutoML and MLOps into SQL workflows to make predictions and automate models directly from within database.",
+  "get_start": "get start",
+  "key_features": "Key Features",
+  "feature1_title": "SQL Integrated Machine Learning",
+  "feature2_title": "AutoML and MLOps",
+  "feature3_title": "In-Database Model Training",
+  "feature1_des": "Perform ML tasks directly from SQL queries, without the need for external tools or programming languages.",
+  "feature2_des": "Automate the process of model selection, training, and deployment with built-in AutoML and MLOps tools.",
+  "feature3_des": "Train and deploy machine learning models directly inside database for seamless integration with existing data workflows.",
+  "about_us": "About Us",
+  "footer": "WKE (Web Knowledge Extraction) focuses on developing Web information systems (WIS) for various domain requirements. By integrating systems and modules about web/text mining methods developed in WKE, WIS can be enhanced to advanced intelligent information systems."
+}

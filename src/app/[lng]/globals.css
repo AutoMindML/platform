@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Inter'),
+    url('./fonts/inter/Inter-VariableFont_opsz\,wght.ttf') format('woff');
+  unicode-range: U+0020-007E;
+}
+
+@font-face {
+  font-family: 'TaipeiSans';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('TaipeiSans'),
+    url('./fonts/taipei-sans/TaipeiSansTCBeta-Regular.woff') format('woff');
+  unicode-range: U+4E00-9FFF;
+}
